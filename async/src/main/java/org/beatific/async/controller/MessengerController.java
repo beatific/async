@@ -13,4 +13,10 @@ public class MessengerController {
 		ChatRoom chatRoom = ChatRoom.getInstance();
 		chatRoom.sendMessageToAll("message");
 	}
+	
+	//join messenger
+	//login messenger
+	//enter chatting room(double click other user)
+	//invite other user
+	//send message
 }
